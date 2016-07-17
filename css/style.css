@@ -1,0 +1,24 @@
+
+/*image logo position top-right=================================================*/
+.logo{
+  /*float: left;*/
+  width:5%;
+  margin: 2%;
+}
+li{
+  list-style: none;
+}
+.emmet_sublime{
+  margin-top: 5%;
+}
+.panel{
+  text-align: center;
+}
+
+/*media queries=================================================================*/
+/*in order to stick footer in the bottom========================================*/
+@media(min-width:769px){
+.wrap{
+  min-height:100vh;
+}
+}
